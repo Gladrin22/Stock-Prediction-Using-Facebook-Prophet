@@ -1,6 +1,6 @@
 # Stock Prediction Using Facebook Prophet 
 
-This is amazing and cool . Because we are using [facebook prophet](https://facebook.github.io/prophet/)which is making our job easy !. This project helps us to understand and explore the upcoming stock market conditions of (Tesla , Google , Microsoft, Facebook , Nvidia , Paypal , Adobe , Netflix ). we will be having an insight from 2015 until today and also if you wish you can use the slider to forecast for the next 5 years. 
+This is amazing and cool . Because we are using [facebook prophet](https://facebook.github.io/prophet/) which is making our job easy !. This project helps us to understand and explore the upcoming stock market conditions of (Tesla , Google , Microsoft, Facebook , Nvidia , Paypal , Adobe , Netflix ). we will be having an insight from 2015 until today and also if you wish you can use the slider to forecast for the next 5 years. 
 
 # Packages: 
 
