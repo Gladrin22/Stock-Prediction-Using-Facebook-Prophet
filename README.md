@@ -1,4 +1,4 @@
 # Stock Prediction Using Facebook Prophet 
 
-
-stock--prediction-app.herokuapp.com/
+# Demo :
+https://stock--prediction-app.herokuapp.com/
