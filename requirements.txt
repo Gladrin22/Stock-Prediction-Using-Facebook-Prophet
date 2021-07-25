@@ -3,3 +3,4 @@ datetime
 yfinance==0.1.63
 fbprophet==0.7.1
 plotly==5.1.0
+httpstan==4.4.2
