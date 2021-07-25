@@ -1,4 +1,4 @@
 # Stock Prediction Using Facebook Prophet 
 
 
-will be connecting to Heroku
+will be connecting to Heroku shortly
