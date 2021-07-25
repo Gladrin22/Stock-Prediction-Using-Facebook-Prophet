@@ -1,5 +1,5 @@
-streamlit
+streamlit==0.82.0
 datetime
-yfinance
-fbprophet
-plotly
+yfinance==0.1.63
+fbprophet==0.7.1
+plotly==5.1.0
