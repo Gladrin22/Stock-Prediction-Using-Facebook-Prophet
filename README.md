@@ -37,3 +37,6 @@ https://stock--prediction-app.herokuapp.com/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) 
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+
