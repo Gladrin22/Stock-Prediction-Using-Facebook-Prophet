@@ -1,1 +1,2 @@
-# Stock-Price-Prediction
+# Stock Prediction Using Facebook Prophet 
+
