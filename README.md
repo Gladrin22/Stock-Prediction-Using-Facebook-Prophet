@@ -19,6 +19,11 @@ pip install datetime
 ``` bash
 pip install plotly
 ```
+or 
+
+``` bash
+pip install -r requirements.txt
+```
 
 # How to use ?
 
