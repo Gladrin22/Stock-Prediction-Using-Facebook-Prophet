@@ -1,4 +1,4 @@
-import streamlit as st                 #importting the packages 
+import streamlit as st                 #importing the packages 
 from datetime import date 
 import yfinance as yf
 
